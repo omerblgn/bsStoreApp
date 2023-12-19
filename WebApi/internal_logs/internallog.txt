@@ -22,3 +22,5 @@
 2023-12-19 12:20:08.5092 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
 2023-12-19 12:20:08.5305 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
 2023-12-19 12:20:08.5395 Info Configuration initialized.
+2023-12-19 12:32:42.5835 Info AppDomain Shutting down. LogFactory closing...
+2023-12-19 12:32:42.5916 Info LogFactory has been closed.

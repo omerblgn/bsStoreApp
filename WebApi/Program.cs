@@ -16,7 +16,7 @@ builder.Services.AddControllers(config =>
     .AddXmlDataContractSerializerFormatters()
     .AddCustomCsvFormatter()
     .AddApplicationPart(typeof(Presentation.AssemblyReference).Assembly);
-    //.AddNewtonsoftJson();
+//.AddNewtonsoftJson();
 
 builder.Services.Configure<ApiBehaviorOptions>(options =>
 {
@@ -36,6 +36,7 @@ builder.Services.ConfigureCors();
 builder.Services.ConfigureDataShaper();
 builder.Services.AddCustomMediaTypes();
 builder.Services.AddScoped<IBookLinks, BookLinks>();
+builder.Services.ConfigureVersioninig();
 
 var app = builder.Build();
 

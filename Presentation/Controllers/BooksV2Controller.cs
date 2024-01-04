@@ -9,6 +9,7 @@ namespace Presentation.Controllers
     //[ApiVersion("2.0", Deprecated = true)]
     [Route("api/books")]
     [ApiController]
+    [ApiExplorerSettings(GroupName = "v2")]
     public class BooksV2Controller : ControllerBase
     {
         private readonly IServiceManager _manager;

@@ -62,6 +62,40 @@ namespace WebApi.Migrations
                         });
                 });
 
+            modelBuilder.Entity("Entities.Models.Category", b =>
+                {
+                    b.Property<int>("CategoryId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CategoryId"));
+
+                    b.Property<string>("CategoryName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("CategoryId");
+
+                    b.ToTable("Categories");
+
+                    b.HasData(
+                        new
+                        {
+                            CategoryId = 1,
+                            CategoryName = "Science Fiction"
+                        },
+                        new
+                        {
+                            CategoryId = 2,
+                            CategoryName = "Mystery"
+                        },
+                        new
+                        {
+                            CategoryId = 3,
+                            CategoryName = "Horror"
+                        });
+                });
+
             modelBuilder.Entity("Entities.Models.User", b =>
                 {
                     b.Property<string>("Id")
@@ -168,19 +202,19 @@ namespace WebApi.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "d3406bca-379b-4061-9d1c-b9d3958beb14",
+                            Id = "0db3de1c-3a91-42f6-b487-a3d6547f0260",
                             Name = "User",
                             NormalizedName = "USER"
                         },
                         new
                         {
-                            Id = "bfa2931c-6dec-44ee-b2d3-3e1f90acf4ea",
+                            Id = "34775d5c-c6b7-4260-a5b3-f5e56a3415b5",
                             Name = "Editor",
                             NormalizedName = "EDITOR"
                         },
                         new
                         {
-                            Id = "d7e01b31-a97d-45e0-aa51-0b0cfdb3d9fd",
+                            Id = "3f721f37-6065-4c0c-9bac-08e919b42263",
                             Name = "Admin",
                             NormalizedName = "ADMIN"
                         });

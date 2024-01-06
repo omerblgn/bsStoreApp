@@ -12,8 +12,8 @@ using Repositories.EFCore;
 namespace WebApi.Migrations
 {
     [DbContext(typeof(RepositoryContext))]
-    [Migration("20240103092109_AddRolesToDatabase")]
-    partial class AddRolesToDatabase
+    [Migration("20240106132538_init")]
+    partial class init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -65,6 +65,40 @@ namespace WebApi.Migrations
                         });
                 });
 
+            modelBuilder.Entity("Entities.Models.Category", b =>
+                {
+                    b.Property<int>("CategoryId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CategoryId"));
+
+                    b.Property<string>("CategoryName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("CategoryId");
+
+                    b.ToTable("Categories");
+
+                    b.HasData(
+                        new
+                        {
+                            CategoryId = 1,
+                            CategoryName = "Science Fiction"
+                        },
+                        new
+                        {
+                            CategoryId = 2,
+                            CategoryName = "Mystery"
+                        },
+                        new
+                        {
+                            CategoryId = 3,
+                            CategoryName = "Horror"
+                        });
+                });
+
             modelBuilder.Entity("Entities.Models.User", b =>
                 {
                     b.Property<string>("Id")
@@ -112,6 +146,12 @@ namespace WebApi.Migrations
 
                     b.Property<bool>("PhoneNumberConfirmed")
                         .HasColumnType("bit");
+
+                    b.Property<string>("RefreshToken")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("RefreshTokenExpireTime")
+                        .HasColumnType("datetime2");
 
                     b.Property<string>("SecurityStamp")
                         .HasColumnType("nvarchar(max)");
@@ -165,19 +205,19 @@ namespace WebApi.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "275c7de1-45cd-46a5-972d-dc8ad3e9250e",
+                            Id = "0db3de1c-3a91-42f6-b487-a3d6547f0260",
                             Name = "User",
                             NormalizedName = "USER"
                         },
                         new
                         {
-                            Id = "14854c61-f5b7-4dfe-8039-9f73bcce7ab0",
+                            Id = "34775d5c-c6b7-4260-a5b3-f5e56a3415b5",
                             Name = "Editor",
                             NormalizedName = "EDITOR"
                         },
                         new
                         {
-                            Id = "d81311e2-4a0c-4f50-841d-ec07cd997341",
+                            Id = "3f721f37-6065-4c0c-9bac-08e919b42263",
                             Name = "Admin",
                             NormalizedName = "ADMIN"
                         });

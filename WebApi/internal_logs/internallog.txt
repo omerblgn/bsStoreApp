@@ -592,3 +592,135 @@
 2024-01-08 11:11:37.1926 Info Configuration initialized.
 2024-01-08 11:11:39.0386 Info AppDomain Shutting down. LogFactory closing...
 2024-01-08 11:11:39.0386 Info LogFactory has been closed.
+2024-01-08 11:26:33.7116 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 11:26:33.7789 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 11:26:33.7887 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 11:26:33.7989 Info Configuration initialized.
+2024-01-08 11:30:59.1147 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 11:30:59.1383 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 11:30:59.1477 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 11:30:59.1477 Info Configuration initialized.
+2024-01-08 11:34:17.2036 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 11:34:17.2292 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 11:34:17.2374 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 11:34:17.2374 Info Configuration initialized.
+2024-01-08 11:35:53.1190 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 11:35:53.1431 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 11:35:53.1431 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 11:35:53.1625 Info Configuration initialized.
+2024-01-08 11:41:55.7745 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 11:41:55.8098 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 11:41:55.8220 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 11:41:55.8306 Info Configuration initialized.
+2024-01-08 11:43:27.1058 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 11:43:27.1355 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 11:43:27.1486 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 11:43:27.1629 Info Configuration initialized.
+2024-01-08 11:45:31.0668 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 11:45:31.0899 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 11:45:31.0967 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 11:45:31.0967 Info Configuration initialized.
+2024-01-08 11:48:59.3477 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 11:48:59.3839 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 11:48:59.3933 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 11:48:59.4073 Info Configuration initialized.
+2024-01-08 11:57:41.0123 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 11:57:41.0411 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 11:57:41.0519 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 11:57:41.0519 Info Configuration initialized.
+2024-01-08 11:59:21.8602 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 11:59:21.8872 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 11:59:21.8953 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 11:59:21.9080 Info Configuration initialized.
+2024-01-08 12:00:28.2165 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 12:00:28.2407 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 12:00:28.2511 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 12:00:28.2511 Info Configuration initialized.
+2024-01-08 12:03:34.1209 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 12:03:34.1459 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 12:03:34.1459 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 12:03:34.1672 Info Configuration initialized.
+2024-01-08 12:10:42.3936 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 12:10:42.4175 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 12:10:42.4258 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 12:10:42.4258 Info Configuration initialized.
+2024-01-08 12:13:37.9282 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 12:13:37.9524 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 12:13:37.9611 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 12:13:37.9696 Info Configuration initialized.
+2024-01-08 12:16:05.4582 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 12:16:05.4822 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 12:16:05.4898 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 12:16:05.4898 Info Configuration initialized.
+2024-01-08 12:16:42.5439 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 12:16:42.5845 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 12:16:42.5845 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 12:16:42.6067 Info Configuration initialized.
+2024-01-08 12:18:04.3764 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 12:18:04.4044 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 12:18:04.4160 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 12:18:04.4252 Info Configuration initialized.
+2024-01-08 12:27:03.3992 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 12:27:03.4352 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 12:27:03.4447 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 12:27:03.4544 Info Configuration initialized.
+2024-01-08 12:28:00.1061 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 12:28:00.1306 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 12:28:00.1429 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 12:28:00.1429 Info Configuration initialized.
+2024-01-08 12:29:39.4750 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 12:29:39.4995 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 12:29:39.5084 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 12:29:39.5165 Info Configuration initialized.
+2024-01-08 12:30:03.9866 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 12:30:04.0111 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 12:30:04.0213 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 12:30:04.0213 Info Configuration initialized.
+2024-01-08 12:32:17.0978 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 12:32:17.1234 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 12:32:17.1321 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 12:32:17.1321 Info Configuration initialized.
+2024-01-08 12:34:18.3754 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 12:34:18.4024 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 12:34:18.4109 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 12:34:18.4109 Info Configuration initialized.
+2024-01-08 12:40:06.8927 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 12:40:06.9211 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 12:40:06.9300 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 12:40:06.9411 Info Configuration initialized.
+2024-01-08 12:45:29.4067 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 12:45:29.4310 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 12:45:29.4411 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 12:45:29.4411 Info Configuration initialized.
+2024-01-08 12:50:14.9633 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 12:50:14.9927 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 12:50:15.0046 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 12:50:15.0046 Info Configuration initialized.
+2024-01-08 12:58:32.9954 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 12:58:33.0185 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 12:58:33.0185 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 12:58:33.0400 Info Configuration initialized.
+2024-01-08 12:59:42.4049 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 12:59:42.4147 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 12:59:42.4147 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 12:59:42.4314 Info Configuration initialized.
+2024-01-08 13:01:12.8408 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 13:01:12.8522 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 13:01:12.8522 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 13:01:12.8665 Info Configuration initialized.
+2024-01-08 13:01:57.0772 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 13:01:57.1014 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 13:01:57.1014 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 13:01:57.1193 Info Configuration initialized.
+2024-01-08 13:02:26.0611 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 13:02:26.0879 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 13:02:26.0955 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 13:02:26.0955 Info Configuration initialized.
+2024-01-08 13:04:17.4210 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 13:04:17.4455 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 13:04:17.4546 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 13:04:17.4546 Info Configuration initialized.
+2024-01-08 13:07:27.2840 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-08 13:07:27.3086 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2024-01-08 13:07:27.3220 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ÖMER\Desktop\bsStoreApp\WebApi\nlog.config
+2024-01-08 13:07:27.3316 Info Configuration initialized.
